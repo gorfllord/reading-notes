@@ -8,6 +8,6 @@
 
 * [Code 201](https://gorfllord.github.io/reading-notes/course-201/)
 
-* [*Code 301*](https://gorfllord.github.io/reading-notes/course-301/)
+* [*Code 301*](https://gorfllord.github.io/reading-notes/course-301/) (Check back in the future for these :smile:)
 
-* [*Code 401*](https://gorfllord.github.io/reading-notes/course-401/)
+* [*Code 401*](https://gorfllord.github.io/reading-notes/course-401/) (Check back in the future for these :smile:)
