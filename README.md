@@ -3,6 +3,7 @@
 **Hello!** I'm Geoff Lloyd, a student at Code Fellows. These are my reading notes so I will be simultaneously organized, taking notes to possibly refer back to later, and also practice using Git and Markdown for future adventures.
 
 ## Table of Contents
+---
 
 ### Code 102 - Intro to Software Development
 
