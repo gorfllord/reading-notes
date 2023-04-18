@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-* [Code 102](gorfllord.github.io/reading-notes/course-102/)
+* [Code 102](https://gorfllord.github.io/reading-notes/course-102/)
 
-* [Code 201](gorfllord.github.io/reading-notes/course-201/)
+* [Code 201](https://gorfllord.github.io/reading-notes/course-201/)
 
-* [*Code 301*](gorfllord.github.io/reading-notes/course-301/)
+* [*Code 301*](https://gorfllord.github.io/reading-notes/course-301/)
 
-* [*Code 401*](gorfllord.github.io/reading-notes/course-401/)
+* [*Code 401*](https://gorfllord.github.io/reading-notes/course-401/)
