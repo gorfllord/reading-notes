@@ -10,13 +10,13 @@ How many levels of headings are there in HTML?
 
 > There are 6 levels of headings in HTML
 
-What are some uses for the <sup> and <sub> elements?
+What are some uses for the \<sup> and \<sub> elements?
 
 > Exponents and footnotes are great uses for superscript, subscript is also good for footnotes and citations. Also the specified examples are for things like the "th" in 25th or chemical formulas.
 
-When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?
 
-> Abbreviations are good tools for accessibility so that a reader can know how to properly pronounce an abbreviation, like Rev Dr Martin Luther King. Without the abbreviate element, it might try to read it phonetically as "rev derr Martin Luther King" or something silly like that. The attribute added for this functionality is "title", like <code><abbr title="Doctor">Dr.</abbr></code>
+> Abbreviations are good tools for accessibility so that a reader can know how to properly pronounce an abbreviation, like Rev Dr Martin Luther King. Without the abbreviate element, it might try to read it phonetically as "rev derr Martin Luther King" or something silly like that. The attribute added for this functionality is "title", like \<abbr title="Doctor">Dr.\</abbr>
 
 ## How CSS is Structured
 
@@ -67,6 +67,6 @@ List 3 different types of comparison operators.
 
 > ==, <, >=
 
-What is the difference between the logical operator && and ||?
+What is the difference between the logical operator && and \||?
 
-> && is and, || is or. && wants both things to be true, || wants one of the things to be true.
+> && is and, \|| is or. && wants both things to be true, \|| wants one of the things to be true.
