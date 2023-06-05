@@ -67,6 +67,6 @@ List 3 different types of comparison operators.
 
 > ==, <, >=
 
-What is the difference between the logical operator && and \||?
+What is the difference between the logical operator && and \|\|?
 
-> && is and, \|| is or. && wants both things to be true, \|| wants one of the things to be true.
+> && is and, \|\| is or. && wants both things to be true, \|\| wants one of the things to be true.
