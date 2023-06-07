@@ -49,20 +49,24 @@ Read the code below and evaluate the last expression and explain what the result
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
 > There's lots of real world uses for conditional statements. like 
+```
 > if(iAteDinner) {
 >  getDesert();
 > } else {
 >  getDinner();
 > }
+```
 > There's an example of a conditional statement that could be used in your head when 8pm rolls round. Have you eaten dinner yet? Get some dessert. Otherwise go eat dinner, you fool!
 
 Give an example of when a Loop is useful in JavaScript.
 
 > Loops are useful when you need to do things multiple times and don't want to painstakingly write it out multiple times, or even if you don't know how many times to do something because it might vary depending on some external input.
+```
 >  while (thereIsNoCheese) {
 >   isThereCheeseYet = getCheese(); // There is a chance of failure from the Cheese Quest.
 >   if (isThereCheeseYet) {
 >     thereIsNoCheese = false;
 >   }
 > }
+```
 > You want to only proceed with your life when there is cheese, so you want to loop the getCheese() function, which will hopefully yield cheese, until cheese has been acquired, then you can break out of the loop and proceed with your life.
