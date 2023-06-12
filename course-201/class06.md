@@ -21,20 +21,12 @@ Evaluate the code below. What does the term this refer to and what is the advant
 
 > 'this' refers to the parent object, in this case dog. It would be a shorthand of writing dog.name, for example. The main reason to use this is that it's shorter, especially if you're using the same code in multiple spots. Especially especially useful if you're using constructors to make a bunch of objects with similar parameters. Like maybe you also need a cat constant with similar values and functions.
 
-const dog = {
-  name: 'Spot',
-  age: 2,
-  color: 'white with black spots',
-  humanAge: function (){
-    console.log(`${this.name} is ${this.age*7} in human years`);
-  }
-}
 ### Introduction To The DOM
 
 What is the DOM?
 
->
+> Document Object Model is a way to interface with web documents. You can use it with JavaScript to access parts of the webpage to call or change values.
 
 Briefly describe the relationship between the DOM and JavaScript.
 
->
+> the DOM is not a coding language, rather it's an interface for coding languages, like JavaScript, to access web elements and content.
