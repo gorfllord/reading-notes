@@ -7,9 +7,12 @@ How would you describe an object to a non-technical friend you grew up with?
 
 What are some advantages to creating object literals?
 
-> 
+> Object literals can help you write less lengthy code, as you can utilize the syntax as a sort of shorthand. Also using this.whatever allows it to be self-referential which is especially helpful when you're making multiple objects with the same code.
 
 How do objects differ from arrays?
+
+> You could think of objects as an array for arrays of sorts? The biggest difference is that you can call items with a string rather than needing an index number. Plus you can build in some functions
+
 Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
 Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 const dog = {
