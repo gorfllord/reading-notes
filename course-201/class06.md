@@ -11,10 +11,16 @@ What are some advantages to creating object literals?
 
 How do objects differ from arrays?
 
-> You could think of objects as an array for arrays of sorts? The biggest difference is that you can call items with a string rather than needing an index number. Plus you can build in some functions
+> You could think of objects as an associative arrays of sorts? The biggest difference is that you can call items with a string rather than needing an index number. Plus you can build in some functions
 
 Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
+
+> If the object value is a variable, you'll need to use bracket notation to access it.
+
 Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+
+> 'this' refers to the parent object, in this case dog. It would be a shorthand of writing dog.name, for example. The main reason to use this is that it's shorter, especially if you're using the same code in multiple spots. Especially especially useful if you're using constructors to make a bunch of objects with similar parameters. Like maybe you also need a cat constant with similar values and functions.
+
 const dog = {
   name: 'Spot',
   age: 2,
@@ -26,4 +32,9 @@ const dog = {
 ### Introduction To The DOM
 
 What is the DOM?
+
+>
+
 Briefly describe the relationship between the DOM and JavaScript.
+
+>
