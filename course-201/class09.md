@@ -18,16 +18,16 @@ List 5 form elements and explain their importance.
 
 How would you describe events to a non-technical friend?
 
->
+> Events lets you tell JavaScript to listen out for something to then respond to that thing, like if you wanted it to wait for a user to click on something before it did the thing you wanted that button to do, like change the background or link to a part of a page
 
 When using the addEventListener() method, what 2 arguments will you need to provide?
 
->
+> The first argument is the input you are listening for, the second argument is what to do when that condition has been met
 
 Describe the event object. Why is the target within the event object useful?
 
->
+> an event object allows you to have some short-hand on the 'what the thing does' part of the addEventListener method. The 'target' is a way to specify that it happens to the thing triggering the event, that way you can use the same code on multiple elements.
 
 What is the difference between event bubbling and event capturing?
 
->
+> Event bubbling is inside-out, event capturing is outside-in, as far as order-of-operations of what element will be chosen to apply, since technically a button is in a div is in a section, all of them technically are where you're clicking. event bubbling lets you prioritize button, event capturing allows you to prioritize section.
