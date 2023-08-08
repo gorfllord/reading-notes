@@ -37,7 +37,21 @@
 
 ### Code 301 - Intermediate Software Development
 
-* Check back in the future for these
+* [Class 1](https://gorfllord.github.io/reading-notes/course-301/class01)
+* [Class 2](https://gorfllord.github.io/reading-notes/course-301/class02)
+* [Class 3](https://gorfllord.github.io/reading-notes/course-301/class03)
+* [Class 4](https://gorfllord.github.io/reading-notes/course-301/class04)
+* [Class 5](https://gorfllord.github.io/reading-notes/course-301/class05)
+* [Class 6](https://gorfllord.github.io/reading-notes/course-301/class06)
+* [Class 7](https://gorfllord.github.io/reading-notes/course-301/class07)
+* [Class 8](https://gorfllord.github.io/reading-notes/course-301/class08)
+* [Class 9](https://gorfllord.github.io/reading-notes/course-301/class09)
+* [Class 10](https://gorfllord.github.io/reading-notes/course-301/class10)
+* [Class 11](https://gorfllord.github.io/reading-notes/course-301/class11)
+* [Class 12](https://gorfllord.github.io/reading-notes/course-301/class12)
+* [Class 13](https://gorfllord.github.io/reading-notes/course-301/class13)
+* [Class 14](https://gorfllord.github.io/reading-notes/course-301/class14)
+* [class 15](https://gorfllord.github.io/reading-notes/course-301/class15)
 
 ### Code 401 - Advanced Software Development
 
